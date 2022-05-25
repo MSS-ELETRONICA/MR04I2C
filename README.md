@@ -1,4 +1,4 @@
-# DM02A
+# MR04I2C
 
 Biblioteca para o módulo relê 4 canais I2C com o PCF8574. Link do produto (https://www.msseletronica.com.br/produtos/?query=MR04I2C)
 
